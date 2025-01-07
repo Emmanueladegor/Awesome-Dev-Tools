@@ -93,3 +93,5 @@ For more details, see our CONTRIBUTING.md.
 ### License
 
 This repository is released under the MIT License. Feel free to use and modify the content under its terms.
+
+Thank you for stopping by! If you find this resource helpful, please consider giving this repo a star and sharing it with fellow developers. Let’s grow this list of awesome dev tools together! ❤️
