@@ -38,6 +38,6 @@ This file lists **10 tools** for Frontend Developers. Feel free to add more via 
    - **Website**: [https://codepen.io](https://codepen.io)  
    - **Description**: An online code editor for prototyping, showcasing, and discovering front-end snippets and experiments.
 
-10. **Visual Studio Code**  
-    - **Website**: [https://code.visualstudio.com](https://code.visualstudio.com)  
-    - **Description**: A free, powerful code editor from Microsoft with an extensive extension ecosystem for front-end development.
+10. **WhatFont**  
+    - **Website**: [https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+    - **Description**: WhatFont is a handy browser extension that allows you to quickly identify the fonts used on any webpage by simply hovering over the text. It displays the font name, size, and other styling details in a clean, user-friendly interface.
