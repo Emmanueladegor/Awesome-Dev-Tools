@@ -1,6 +1,6 @@
 # Awesome Dev Tools
 
-Welcome to **Awesome Dev Tools** – your one-stop resource for discovering and sharing the best tools for Frontend Developers, SharePoint & SPFx gurus, PowerShell scripters, and Generative AI explorers. Whether you’re a beginner looking to jumpstart your projects, or a seasoned developer seeking new ideas, you’re in the right place!
+Welcome to **Awesome Dev Tools** – your one-stop resource for discovering and sharing the best tools for Frontend and Backend Developers, SharePoint & SPFx gurus, PowerShell scripters, and Generative AI explorers. Whether you’re a beginner looking to jumpstart your projects, or a seasoned developer seeking new ideas, you’re in the right place!
 
 This repository is maintained by the community, for the community. Found a tool you love? Contribute by creating a Pull Request or opening an Issue!
 
@@ -11,13 +11,14 @@ This repository is maintained by the community, for the community. Found a tool 
 1. [Introduction](#introduction)  
 2. [Frontend Tools](#frontend-tools)  
 3. [SharePoint & SPFx Tools](#sharepoint--spfx-tools)  
-4. [PowerShell Tools](#powershell-tools)  
-5. [Gen AI Toolkit & Resources](#gen-ai-toolkit--resources)  
-6. [Setting Up the Repository](#setting-up-the-repository)  
+4. [PowerShell Tools](#powershell-tools)
+5. [Backend/Dotnet](#dotnet-tools)  
+6. [Gen AI Toolkit & Resources](#gen-ai-toolkit--resources)  
+7. [Setting Up the Repository](#setting-up-the-repository)  
    - [Using GitHub’s Web Interface](#using-githubs-web-interface)  
    - [Using VS Code Locally](#using-vs-code-locally)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
+8. [Contributing](#contributing)  
+9. [License](#license)  
 
 ---
 
@@ -49,6 +50,12 @@ See [`tools/sharepoint-tools.md`](tools/sharepoint-tools.md) for handy resources
 ## PowerShell Tools
 
 Head over to [`tools/powershell-tools.md`](tools/powershell-tools.md) for a variety of modules, shells, and scripts that improve your PowerShell workflow.
+
+---
+
+## Dotnet Tools & Resources
+
+Check out [`tools/dotnet-tools.md`](tools/dotnet-tools.md) relevant dotnet NuGet Packages and libraries.
 
 ---
 
