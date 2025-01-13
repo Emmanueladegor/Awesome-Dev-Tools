@@ -41,3 +41,18 @@ Here are **10 resources** for exploring Generative AI, from code-generation assi
 10. **Anthropic Claude**  
     - **Website**: [https://www.anthropic.com/index/claude-introduction](https://www.anthropic.com/index/claude-introduction)  
     - **Description**: A large language model focusing on safe and steerable interactions, with advanced conversation capabilities.
+
+
+# Prototyping AI Softwares
+
+## Chatbase
+
+[Chatbase](https://www.chatbase.co) is an AI chatbot builder that enables businesses to create custom chatbots trained on their own data. It supports integration via API and allows training on various data sources, including files, website URLs, plain text, and sitemaps. Features include website widgets, embed options, and Slack integration, making it versatile for different platforms.
+
+## Dante AI
+
+[Dante AI](https://www.dante-ai.com) is a user-friendly platform designed for small businesses aiming to automate customer service or e-commerce interactions without requiring technical expertise. It offers customizable chatbots with multilingual support, sentiment analysis, and data privacy features. Dante AI provides pre-built integrations with platforms like Shopify, WordPress, and Slack, facilitating quick deployment across various digital touchpoints.
+
+## Cody
+
+[Cody](https://www.meetcody.ai) is an AI-powered platform that assists businesses in automating tasks and enhancing productivity. It offers features such as AI-driven chatbots, workflow automation, and data analysis tools. Cody integrates with various platforms and services, providing a seamless experience for users looking to leverage AI in their operations.
