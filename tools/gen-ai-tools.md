@@ -56,3 +56,8 @@ Here are **10 resources** for exploring Generative AI, from code-generation assi
 ## Cody
 
 [Cody](https://www.meetcody.ai) is an AI-powered platform that assists businesses in automating tasks and enhancing productivity. It offers features such as AI-driven chatbots, workflow automation, and data analysis tools. Cody integrates with various platforms and services, providing a seamless experience for users looking to leverage AI in their operations.
+
+# GEN Ai Communities
+
+## AI Automation Agency Hub
+[AAA](https://www.skool.com/learn-ai) is a platform or online community where businesses looking to implement artificial intelligence (AI) automation solutions can connect with specialized agencies that provide services like designing AI-powered workflows, developing chatbots, and optimizing business processes using AI technology, essentially acting as a central point to access various AI automation expertise and services from different agencies.
