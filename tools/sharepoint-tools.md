@@ -41,3 +41,10 @@ A list of **tools and resources** for SharePoint and SPFx (SharePoint Framework)
 10. **SPFx React Controls & Property Controls**  
     - **Website**: [https://pnp.github.io/sp-dev-fx-controls-react/](https://pnp.github.io/sp-dev-fx-controls-react/)  
     - **Description**: Reusable React controls that simplify building modern SPFx solutions with best practices and consistent design.
+      
+
+# SharePoint Migration Tools
+
+1. **SharePoint Migration Tool (SPMT)**
+    - **Download Link**: [https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool](https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool)
+    - **Description**: The SharePoint Migration Tool (SPMT) is a free and easy to use migration solution to help you migrate content from on-premises SharePoint sites to Microsoft 365.
