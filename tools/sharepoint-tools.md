@@ -1,6 +1,6 @@
 # SharePoint & SPFx Tools
 
-A list of **10 tools** for SharePoint and SPFx (SharePoint Framework) development. Contribute your favorites!
+A list of **tools and resources** for SharePoint and SPFx (SharePoint Framework) development. Contribute your favorites!
 
 1. **PnP PowerShell**  
    - **Website**: [https://pnp.github.io/powershell/](https://pnp.github.io/powershell/)  
