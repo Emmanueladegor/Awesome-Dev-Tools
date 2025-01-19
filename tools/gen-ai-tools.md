@@ -41,6 +41,10 @@ Here are **relevant resources** for exploring Generative AI, from code-generatio
 10. **Claude**  
     - **Website**: [https://claude.ai/](https://claude.ai/)  
     - **Description**: Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
+   
+11. **Perplexity Ai**  
+    - **Website**: [https://www.perplexity.ai/](https://www.perplexity.ai/)
+    - **Description**: Perplexity AI is a search engine that uses artificial intelligence (AI) to provide answers to user questions. It uses natural language processing and machine learning to generate conversational responses. 
 
 
 # Prototyping AI Softwares
