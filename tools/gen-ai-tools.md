@@ -1,6 +1,6 @@
 # Gen AI Toolkit & Resources
 
-Here are **10 resources** for exploring Generative AI, from code-generation assistants to prompt engineering.
+Here are **relevant resources** for exploring Generative AI, from code-generation assistants to prompt engineering.
 
 1. **Copilot Developer Camp**  
    - **Website**: [https://microsoft.github.io/copilot-camp/](https://microsoft.github.io/copilot-camp/)  
@@ -37,10 +37,10 @@ Here are **10 resources** for exploring Generative AI, from code-generation assi
 9. **Google Cloud Vertex AI**  
    - **Website**: [https://cloud.google.com/vertex-ai](https://cloud.google.com/vertex-ai)  
    - **Description**: A unified AI platform on Google Cloud for building, deploying, and scaling ML models, including generative AI features.
-
-10. **Anthropic Claude**  
-    - **Website**: [https://www.anthropic.com/index/claude-introduction](https://www.anthropic.com/index/claude-introduction)  
-    - **Description**: A large language model focusing on safe and steerable interactions, with advanced conversation capabilities.
+   
+10. **Claude**  
+    - **Website**: [https://claude.ai/](https://claude.ai/)  
+    - **Description**: Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
 
 
 # Prototyping AI Softwares
