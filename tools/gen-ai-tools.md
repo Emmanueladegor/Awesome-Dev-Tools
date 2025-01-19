@@ -46,7 +46,7 @@ Here are **relevant resources** for exploring Generative AI, from code-generatio
     - **Website**: [https://www.perplexity.ai/](https://www.perplexity.ai/)
     - **Description**: Perplexity AI is a search engine that uses artificial intelligence (AI) to provide answers to user questions. It uses natural language processing and machine learning to generate conversational responses. 
 
-11. **Perplexity Ai**  
+11. **Recraft Ai**  
     - **Website**: [https://www.recraft.ai/](https://www.recraft.ai/)
     - **Description**: Recraft is an AI-powered design tool that allows users to create images, illustrations, and 3D graphics. It's designed for professional designers, illustrators, and marketers. 
 
