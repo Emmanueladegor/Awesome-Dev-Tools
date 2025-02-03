@@ -50,6 +50,10 @@ Here are **relevant resources** for exploring Generative AI, from code-generatio
     - **Website**: [https://www.recraft.ai/](https://www.recraft.ai/)
     - **Description**: Recraft is an AI-powered design tool that allows users to create images, illustrations, and 3D graphics. It's designed for professional designers, illustrators, and marketers. 
 
+12. **DeepSeek r1 Ai**  
+    - **Website**: [https://www.deepseek.com/](https://www.deepseek.com/)
+    - **Description**: Deepseek R1 is an advanced, AI-powered search platform designed to rapidly extract actionable insights from vast and complex datasets. Leveraging state-of-the-art deep learning algorithms, it delivers precise and relevant results while streamlining data exploration for businesses and researchers alike. 
+
 # Prototyping AI Softwares
 
 ## Chatbase
