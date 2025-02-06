@@ -72,3 +72,7 @@ Here are **relevant resources** for exploring Generative AI, from code-generatio
 
 ## AI Automation Agency Hub
 [AAA](https://www.skool.com/learn-ai) is a platform or online community where businesses looking to implement artificial intelligence (AI) automation solutions can connect with specialized agencies that provide services like designing AI-powered workflows, developing chatbots, and optimizing business processes using AI technology, essentially acting as a central point to access various AI automation expertise and services from different agencies.
+
+## Hugging Face
+[https://huggingface.co/](https://huggingface.co/) The AI community building the future.
+The platform where the machine learning community collaborates on models, datasets, and applications.
